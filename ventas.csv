@@ -1,0 +1,121 @@
+fecha,tienda_id,ciudad,canal,producto_id,producto_nombre,categoria,cantidad,precio_unitario,total
+2024-10-01,4,Bogotá,POS,103,Detergente 1L,Hogar,3,9500,28500
+2024-10-02,3,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,2,8000,16000
+2024-10-03,1,Bogotá,Web,105,Papel higiénico 4u,Hogar,4,8000,32000
+2024-10-04,2,Bogotá,Web,104,Aceite 1L,Alimentos,2,11000,22000
+2024-10-05,2,Bucaramanga,POS,101,Café molido 500g,Alimentos,2,12000,24000
+2024-10-06,1,Medellín,POS,105,Papel higiénico 4u,Hogar,7,8000,56000
+2024-10-07,3,Barranquilla,POS,105,Papel higiénico 4u,Hogar,3,8000,24000
+2024-10-08,3,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,2,8000,16000
+2024-10-09,3,Bogotá,POS,101,Café molido 500g,Alimentos,4,12000,48000
+2024-10-10,2,Barranquilla,Web,105,Papel higiénico 4u,Hogar,1,8000,8000
+2024-10-11,4,Cali,Web,103,Detergente 1L,Hogar,8,9500,76000
+2024-10-12,2,Bogotá,Web,102,Azúcar 1kg,Alimentos,3,4000,12000
+2024-10-13,3,Barranquilla,Web,105,Papel higiénico 4u,Hogar,8,8000,64000
+2024-10-14,1,Bucaramanga,Web,105,Papel higiénico 4u,Hogar,2,8000,16000
+2024-10-15,2,Barranquilla,Web,102,Azúcar 1kg,Alimentos,6,4000,24000
+2024-10-16,3,Cali,Web,101,Café molido 500g,Alimentos,2,12000,24000
+2024-10-17,4,Bogotá,POS,105,Papel higiénico 4u,Hogar,8,8000,64000
+2024-10-18,1,Bogotá,Web,103,Detergente 1L,Hogar,8,9500,76000
+2024-10-19,3,Barranquilla,Web,105,Papel higiénico 4u,Hogar,8,8000,64000
+2024-10-20,3,Medellín,POS,101,Café molido 500g,Alimentos,8,12000,96000
+2024-10-21,2,Cali,POS,104,Aceite 1L,Alimentos,1,11000,11000
+2024-10-22,4,Barranquilla,POS,102,Azúcar 1kg,Alimentos,7,4000,28000
+2024-10-23,4,Bucaramanga,Web,102,Azúcar 1kg,Alimentos,8,4000,32000
+2024-10-24,3,Barranquilla,Web,102,Azúcar 1kg,Alimentos,7,4000,28000
+2024-10-25,2,Bogotá,POS,104,Aceite 1L,Alimentos,4,11000,44000
+2024-10-26,2,Bogotá,Web,102,Azúcar 1kg,Alimentos,4,4000,16000
+2024-10-27,3,Cali,POS,105,Papel higiénico 4u,Hogar,3,8000,24000
+2024-10-28,3,Bucaramanga,Web,102,Azúcar 1kg,Alimentos,7,4000,28000
+2024-10-29,4,Bucaramanga,Web,102,Azúcar 1kg,Alimentos,1,4000,4000
+2024-10-30,4,Bogotá,Web,104,Aceite 1L,Alimentos,7,11000,77000
+2024-10-01,2,Bogotá,POS,104,Aceite 1L,Alimentos,1,11000,11000
+2024-10-02,1,Cali,POS,104,Aceite 1L,Alimentos,3,11000,33000
+2024-10-03,2,Bucaramanga,POS,101,Café molido 500g,Alimentos,1,12000,12000
+2024-10-04,1,Medellín,Web,103,Detergente 1L,Hogar,1,9500,9500
+2024-10-05,3,Bucaramanga,Web,102,Azúcar 1kg,Alimentos,5,4000,20000
+2024-10-06,1,Barranquilla,Web,104,Aceite 1L,Alimentos,2,11000,22000
+2024-10-07,3,Bogotá,POS,104,Aceite 1L,Alimentos,8,11000,88000
+2024-10-08,3,Barranquilla,POS,101,Café molido 500g,Alimentos,6,12000,72000
+2024-10-09,2,Bucaramanga,Web,105,Papel higiénico 4u,Hogar,1,8000,8000
+2024-10-10,3,Bogotá,Web,102,Azúcar 1kg,Alimentos,1,4000,4000
+2024-10-11,2,Cali,POS,105,Papel higiénico 4u,Hogar,6,8000,48000
+2024-10-12,2,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,6,8000,48000
+2024-10-13,2,Medellín,Web,102,Azúcar 1kg,Alimentos,7,4000,28000
+2024-10-14,1,Cali,Web,103,Detergente 1L,Hogar,1,9500,9500
+2024-10-15,3,Barranquilla,Web,103,Detergente 1L,Hogar,4,9500,38000
+2024-10-16,2,Bogotá,POS,103,Detergente 1L,Hogar,2,9500,19000
+2024-10-17,3,Medellín,Web,104,Aceite 1L,Alimentos,4,11000,44000
+2024-10-18,4,Cali,POS,105,Papel higiénico 4u,Hogar,1,8000,8000
+2024-10-19,2,Barranquilla,POS,101,Café molido 500g,Alimentos,7,12000,84000
+2024-10-20,1,Barranquilla,Web,104,Aceite 1L,Alimentos,6,11000,66000
+2024-10-21,2,Medellín,POS,104,Aceite 1L,Alimentos,2,11000,22000
+2024-10-22,4,Medellín,Web,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-23,2,Bogotá,POS,103,Detergente 1L,Hogar,3,9500,28500
+2024-10-24,4,Medellín,POS,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-25,2,Cali,POS,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-26,3,Bucaramanga,Web,105,Papel higiénico 4u,Hogar,6,8000,48000
+2024-10-27,3,Barranquilla,Web,102,Azúcar 1kg,Alimentos,1,4000,4000
+2024-10-28,2,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,3,8000,24000
+2024-10-29,1,Medellín,POS,104,Aceite 1L,Alimentos,3,11000,33000
+2024-10-30,1,Bucaramanga,POS,102,Azúcar 1kg,Alimentos,8,4000,32000
+2024-10-01,1,Bucaramanga,POS,103,Detergente 1L,Hogar,8,9500,76000
+2024-10-02,3,Bogotá,POS,102,Azúcar 1kg,Alimentos,4,4000,16000
+2024-10-03,1,Bogotá,Web,105,Papel higiénico 4u,Hogar,8,8000,64000
+2024-10-04,3,Barranquilla,Web,103,Detergente 1L,Hogar,4,9500,38000
+2024-10-05,3,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,4,8000,32000
+2024-10-06,4,Bogotá,Web,104,Aceite 1L,Alimentos,3,11000,33000
+2024-10-07,1,Medellín,Web,104,Aceite 1L,Alimentos,6,11000,66000
+2024-10-08,3,Bogotá,POS,101,Café molido 500g,Alimentos,4,12000,48000
+2024-10-09,3,Medellín,Web,103,Detergente 1L,Hogar,3,9500,28500
+2024-10-10,4,Barranquilla,POS,102,Azúcar 1kg,Alimentos,2,4000,8000
+2024-10-11,4,Bucaramanga,Web,102,Azúcar 1kg,Alimentos,3,4000,12000
+2024-10-12,2,Cali,Web,103,Detergente 1L,Hogar,7,9500,66500
+2024-10-13,1,Cali,Web,101,Café molido 500g,Alimentos,6,12000,72000
+2024-10-14,4,Cali,Web,104,Aceite 1L,Alimentos,1,11000,11000
+2024-10-15,1,Medellín,POS,105,Papel higiénico 4u,Hogar,2,8000,16000
+2024-10-16,3,Bogotá,POS,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-17,4,Cali,Web,103,Detergente 1L,Hogar,3,9500,28500
+2024-10-18,3,Bogotá,Web,102,Azúcar 1kg,Alimentos,8,4000,32000
+2024-10-19,4,Bogotá,Web,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-20,3,Bogotá,POS,101,Café molido 500g,Alimentos,2,12000,24000
+2024-10-21,1,Barranquilla,POS,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-22,3,Bucaramanga,POS,103,Detergente 1L,Hogar,7,9500,66500
+2024-10-23,1,Medellín,Web,101,Café molido 500g,Alimentos,4,12000,48000
+2024-10-24,2,Cali,Web,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-25,3,Barranquilla,POS,105,Papel higiénico 4u,Hogar,4,8000,32000
+2024-10-26,1,Cali,POS,103,Detergente 1L,Hogar,6,9500,57000
+2024-10-27,2,Bucaramanga,Web,101,Café molido 500g,Alimentos,1,12000,12000
+2024-10-28,1,Barranquilla,Web,102,Azúcar 1kg,Alimentos,8,4000,32000
+2024-10-29,3,Medellín,POS,105,Papel higiénico 4u,Hogar,7,8000,56000
+2024-10-30,2,Barranquilla,Web,103,Detergente 1L,Hogar,4,9500,38000
+2024-10-01,1,Bogotá,Web,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-02,1,Bogotá,Web,104,Aceite 1L,Alimentos,3,11000,33000
+2024-10-03,2,Cali,POS,105,Papel higiénico 4u,Hogar,5,8000,40000
+2024-10-04,2,Cali,Web,104,Aceite 1L,Alimentos,3,11000,33000
+2024-10-05,3,Cali,Web,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-06,3,Medellín,Web,102,Azúcar 1kg,Alimentos,1,4000,4000
+2024-10-07,3,Barranquilla,POS,102,Azúcar 1kg,Alimentos,1,4000,4000
+2024-10-08,2,Medellín,POS,104,Aceite 1L,Alimentos,5,11000,55000
+2024-10-09,1,Medellín,Web,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-10,4,Bogotá,Web,105,Papel higiénico 4u,Hogar,1,8000,8000
+2024-10-11,1,Bucaramanga,POS,103,Detergente 1L,Hogar,4,9500,38000
+2024-10-12,3,Barranquilla,POS,105,Papel higiénico 4u,Hogar,7,8000,56000
+2024-10-13,1,Bucaramanga,Web,103,Detergente 1L,Hogar,3,9500,28500
+2024-10-14,1,Bucaramanga,POS,105,Papel higiénico 4u,Hogar,3,8000,24000
+2024-10-15,1,Medellín,Web,101,Café molido 500g,Alimentos,1,12000,12000
+2024-10-16,4,Bucaramanga,POS,101,Café molido 500g,Alimentos,7,12000,84000
+2024-10-17,4,Cali,POS,101,Café molido 500g,Alimentos,4,12000,48000
+2024-10-18,1,Bucaramanga,POS,104,Aceite 1L,Alimentos,2,11000,22000
+2024-10-19,1,Cali,POS,104,Aceite 1L,Alimentos,5,11000,55000
+2024-10-20,4,Barranquilla,Web,102,Azúcar 1kg,Alimentos,4,4000,16000
+2024-10-21,3,Bogotá,POS,101,Café molido 500g,Alimentos,8,12000,96000
+2024-10-22,3,Cali,Web,101,Café molido 500g,Alimentos,3,12000,36000
+2024-10-23,1,Barranquilla,POS,105,Papel higiénico 4u,Hogar,3,8000,24000
+2024-10-24,1,Medellín,Web,104,Aceite 1L,Alimentos,5,11000,55000
+2024-10-25,4,Barranquilla,Web,103,Detergente 1L,Hogar,5,9500,47500
+2024-10-26,3,Bogotá,Web,101,Café molido 500g,Alimentos,4,12000,48000
+2024-10-27,4,Bogotá,Web,101,Café molido 500g,Alimentos,5,12000,60000
+2024-10-28,2,Medellín,POS,103,Detergente 1L,Hogar,7,9500,66500
+2024-10-29,2,Bucaramanga,Web,105,Papel higiénico 4u,Hogar,2,8000,16000
+2024-10-30,3,Bogotá,Web,103,Detergente 1L,Hogar,3,9500,28500

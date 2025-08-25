@@ -1,0 +1,106 @@
+{
+  "productos": [
+    {
+      "id": 101,
+      "nombre": "Café molido 500g",
+      "categoria": "Alimentos",
+      "precio": {
+        "COP": {
+          "lista": 12000,
+          "mayorista": 11000
+        }
+      },
+      "especificaciones": {
+        "origen": "Ecuador",
+        "presentacion": "Unidad"
+      },
+      "tags": [
+        "consumo_masivo",
+        "supermercado"
+      ],
+      "activo": true
+    },
+    {
+      "id": 102,
+      "nombre": "Azúcar 1kg",
+      "categoria": "Alimentos",
+      "precio": {
+        "COP": {
+          "lista": 4500,
+          "mayorista": 4200
+        }
+      },
+      "especificaciones": {
+        "origen": "Ecuador",
+        "presentacion": "Unidad"
+      },
+      "tags": [
+        "consumo_masivo",
+        "supermercado"
+      ],
+      "activo": true
+    },
+    {
+      "id": 103,
+      "nombre": "Detergente 1L",
+      "categoria": "Hogar",
+      "precio": {
+        "COP": {
+          "lista": 9800,
+          "mayorista": 9300
+        }
+      },
+      "especificaciones": {
+        "origen": "Colombia",
+        "presentacion": "Botella"
+      },
+      "tags": [
+        "hogar"
+      ],
+      "activo": true
+    },
+    {
+      "id": 104,
+      "nombre": "Aceite 1L",
+      "categoria": "Alimentos",
+      "precio": {
+        "COP": {
+          "lista": 11500,
+          "mayorista": 10900
+        }
+      },
+      "especificaciones": {
+        "origen": "Ecuador",
+        "presentacion": "Botella"
+      },
+      "tags": [
+        "consumo_masivo",
+        "supermercado"
+      ],
+      "activo": true
+    },
+    {
+      "id": 105,
+      "nombre": "Papel higiénico 4u",
+      "categoria": "Hogar",
+      "precio": {
+        "COP": {
+          "lista": 8200,
+          "mayorista": 7800
+        }
+      },
+      "especificaciones": {
+        "origen": "Colombia",
+        "presentacion": "Unidad"
+      },
+      "tags": [
+        "hogar"
+      ],
+      "activo": true
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "generado": "2025-08-25T16:12:50.834773"
+  }
+}
