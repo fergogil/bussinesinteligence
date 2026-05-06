@@ -42,13 +42,16 @@ print(f"⏱️ Tiempo de búsqueda: {round(fin - inicio, 4)} segundos.")
 
 
 ################ VARIEDAD Y/O VERACIDAD ################
-# ¿Qué tan confiables son mis datos? (Veracidad) 
-print("--- 🛠️ Chequeo de Calidad de Datos ---") 
-nulos = df.isnull().sum() print("Columnas con datos faltantes:") print(nulos[nulos > 0]) 
-# ¿Cuál es el promedio de salario por nivel de trabajo y modo de trabajo? 
-# Esto crea una tabla cruzada (como una dinámica pero instantánea) 
-pivot = df.pivot_table(values='Salary', index='Job_Level', columns='Work_Mode', aggfunc='mean').round(2) 
-print("\n--- 📊 Matriz Salarial (Nivel vs Modalidad) ---") 
+# ¿Qué tan confiables son mis datos? (Veracidad)
+print("--- 🛠️ Chequeo de Calidad de Datos ---")
+nulos = df.isnull().sum()
+print("Columnas con datos faltantes:")
+print(nulos[nulos > 0])
+
+# ¿Cuál es el promedio de salario por nivel de trabajo y modo de trabajo?
+# Esto crea una tabla cruzada (como una dinámica pero instantánea)
+pivot = df.pivot_table(values='Salary', index='Job_Level', columns='Work_Mode', aggfunc='mean').round(2)
+print("\n--- 📊 Matriz Salarial (Nivel vs Modalidad) ---")
 print(pivot)
 
 
